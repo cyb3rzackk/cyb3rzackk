@@ -10,7 +10,7 @@
 - 🔭 Currently studying and working on **DevOps practices, Cloud Infrastructure, and CI/CD pipelines**.
 - 🌱 Building hands-on experience with **AWS, Linux administration, Docker containerization, and Infrastructure as Code**.
 - ⚡ Focus: Automating deployments, managing cloud environments, and streamlining software delivery.
-- 📫 Connect with me: [LinkedIn Profile](https://www.linkedin.com/in/jaydip-rathod-822657351?utm_source=share_via&utm_content=profile&utm_medium=member_android) | **jdrathod5711@gmail.com**
+- 
 
 ---
 
@@ -28,16 +28,11 @@
 
 **Development & Scripting**
 - Python / JavaScript / PHP
-- HTML5 / CSS3 / Tailwind CSS
+- HTML5 / CSS3 / 
 - Node.js (Basics)
 
 **Databases & Infrastructure**
-- MySQL / PostgreSQL / PL/SQL
+- MySQL 
 - AWS RDS / Cloud Databases
 
----
 
-### 📊 GitHub Activity & Stats
-
-![Jaydip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
